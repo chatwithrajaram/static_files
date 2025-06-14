@@ -1,0 +1,17 @@
+{
+  "version": "1.2.0",
+  "release_date": "2025-06-10",
+  "download_url": "https://www.microsoft.com/en-us/download/details.aspx?id=57694",
+  "changelog": {
+    "features": [
+      "Added 'Export to PDF' button in the Pricing tab",
+      "Ribbon now supports light/dark theme switching",
+      "Auto-backup of pricing sheets every 15 minutes"
+    ],
+    "bug_fixes": [
+      "Fixed issue with price calculation rounding errors",
+      "Resolved crash when loading files with missing product codes",
+      "Corrected typo in 'Discount%' column heading"
+    ]
+  }
+}
